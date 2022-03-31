@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre&display=swap');
+p {font-family: 'Gemunu Libre', sans-serif;}
+* {font-family: 'Gemunu Libre', sans-serif; color: rgb(0, 0, 0);}
+
+#background1 {
+    background-image: url("../img/blue_cyan_background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;}
+    .flex {
+        display: flex;  
+        flex-flow: column;
+        font-weight: bold;
+        text-align: center;
+    
+        padding: 0;
+        margin: 0;
+    }
+    
+    .container1 > div {
+        text-align: center;
+    }
+    
+    .container2 {
+        flex-flow: row;
+        justify-self: center;
+    }
+    
+    .container2 > p {
+        text-align: center;
+    }
+    
+    .container2 > div {
+        width: 100%;
+        height: 200px;
+    }
+    
+    .container3 {
+        background-color: rgb(255, 90, 0);
+        text-align: center;
+    }
+    
+    .header1 {
+        background-color: rgb(255, 0, 0);
+    }
+    
+    .header2 {
+        background-color: rgb(255, 94, 0);
+    }
+    
+    .row1 {
+        background-color: rgb(255, 90, 0);
+    }
+    .row2 {
+        background-color: rgb(255, 90, 0);
+    }
+    .row3 {
+        background-color: rgb(255, 90, 0);
+    }
