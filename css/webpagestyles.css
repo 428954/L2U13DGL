@@ -74,7 +74,7 @@ body {
 
 .samsung {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     width: 100%;
     height: 200px;
 }
@@ -106,4 +106,68 @@ body {
     flex-wrap: wrap;
     justify-content: space-around;
     align-content: center;
+}
+.second{
+    display: flex;
+    width: 100%;
+    height: 50%;
+    justify-content: space-around;
+    align-items: center;
+}
+.image1{
+    display: flex;
+    background-color: #f14f0e
+    
+    
+    
+    
+    
+    ;
+    position: relative;
+    justify-content: center; align-items: center;height: 100%; width: 15%; color: rgb(7, 7, 7);
+    font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px;
+}
+.image2{
+    display: flex;
+    background-color: #f14f0e;
+    position: relative;
+    justify-content: center; align-items: center;height: 100%; width: 15%; color: rgb(7, 7, 7);
+    font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px; 
+
+}
+.image3{
+    display: flex;
+    background-color: #f14f0e;
+    position: relative;
+    justify-content: center; align-items: center;height: 100%; width: 15%; color: rgb(0, 0, 0);
+    font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px;
+
+}
+.image4{
+    display: flex;
+    background-color: #f14f0e;
+    position: relative;
+    justify-content: center; align-items: center;height: 100%; width: 15%; color: rgb(12, 12, 12);
+    font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px;
+
+}
+.image5{
+    display: flex;
+    background-color:#f14f0e;
+    position: relative;
+    justify-content: center; align-items: center;height: 100%; width: 15%; color: rgb(7, 7, 7);
+    font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px;
+
+}`
+.image6{
+    display: flex;
+    background-color: #f14f0e;
+    position: relative;
+    justify-content: center; align-items: center;height: 100%; width: 15%; color: rgb(0, 0, 0);
+    font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px;
+
+}
+.gap{
+    height:50px;
+    width: 100%;
 }
