@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+<title> my webpage</title>
+    </head>
+
+    <body>
+     
+<ul>
+    <li>headphhones</li>
+    <li>computerparts, proccessor and graphics card </li>
+    <li>steiring wheel</li>
+    
+    </ul>
+    <nav><a href="../index.html"> Page one</a> </nav>
+     
+     
+     
+        <h1>llllllllll</h1>
+        <p style="color: rgb(255, 17, 0);font-weight: bold;font-style: italic;">Hello world</p>
+    <figure><img src="img/Mrbruh.jpg" alt=""></figure>
+    </body>
+
+</html>
+
+
+
+    
