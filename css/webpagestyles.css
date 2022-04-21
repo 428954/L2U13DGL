@@ -171,3 +171,108 @@ body {
     height:50px;
     width: 100%;
 }
+.video { 
+height: 45%;
+width: 45%;
+}
+ #basket     
+{
+ height:60%; 
+ width: 60%;   
+}
+table, th, td {
+    border: 1px solid;
+  }
+  
+  table {
+    width: 100%;
+  }
+  </style>
+  </head>
+  <body>
+  
+  <h2>Full-width Table</h2>
+  
+  <table>
+    <tr>
+      <th>Firstname</th>
+      <th>Lastname</th>
+    </tr>
+    <tr>
+      <td>Peter</td>
+      <td>Griffin</td>
+    </tr>
+    <tr>
+      <td>Lois</td>
+      <td>Griffin</td>
+    </tr>
+  </table>
+  .bottombar{ background-color: #26b490;
+
+    width: 100%; height: 195px;
+
+    position: relative;
+
+    display:flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+}
+
+.main{
+
+    margin: 0;
+
+    padding: 0;
+
+    width: 90%;
+
+    display: flex;
+
+    justify-content: center;
+    
+
+
+}
+
+.main input,button{
+
+    width:75%;height: 70px;
+
+    font-size: 18px;
+
+    background-color: #19b890;
+
+    color:rgb(0, 0, 0);
+
+}
+
+.main input:hover{
+
+    opacity: .8;
+
+}
+
+.main button{
+
+    width: 100px; height: 70px;
+
+    background-color: #3ce7e7;
+
+    color:black;
+
+    transition: all 0.3s;
+
+    position: relative;
+
+    top: 1px;
+
+
+
+}
+
+.main button:hover{
+
+    opacity: .8;
