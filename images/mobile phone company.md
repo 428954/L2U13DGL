@@ -68,14 +68,15 @@ G= google
 C= checkout 
 
 
- |   | H  | S  | A  | H  |  G | C  |
+ |   | H  | S  | A  | H  |  G |  
 |---|---|---|---|---|---|---|
-| H  | &check;  | &check;  |  &check; | &check;  | &check;  | &check;  |
-| S  | &check;  |  |   |   |   |   |
-| A  | &check;  |   |  |   |   |   |
-| H  |  &check; |   |   |   |   |   |
-| G  | &check;  |   |   |   |   |   |
-| C  |  &check; |   |   |   |   |   |
+| H  | &check;  | &check;  |  &check; | &check;  | &check;  
+&check;  |
+| S  | &check;  |  |   |   |   |   
+| A  | &check;  |   |  |   |   |   
+| H  |  &check; |   |   |   |   |   
+| G  | &check;  |   |   |   |   |   
+ 
 
 style 2 
 https://paletton.com/#uid=10S0u0koQruffBkkku7s8mJvGhW 
@@ -86,15 +87,16 @@ https://paletton.com/#uid=10S0u0koQruffBkkku7s8mJvGhW
 ![image](daphonify.jpg)  
 ![image](style2.jpg)
 
-|   | H  | S  | A  | H  |  G | C  |
+|   | H  | S  | A  | H  |  G |  |
 |---|---|---|---|---|---|---|
 | H  | &check;  | &check;  |  &check; | &check;  | &check;  | &check;  |
-| S  | &check;  |  |   |   |   |   |
-| A  | &check;  |   |  |   |   |   |
-| H  |  &check; |   |   |   |   |   |
-| G  | &check;  |   |   |   |   |   |
-| C  |  &check; |   |   |   |   |   |
+| S  | &check;  |  |   |   |   |   
+| A  | &check;  |   |  |   |   |   
+| H  |  &check; |   |   |   |   |   
+| G  | &check;  |   |   |   |   |   
+
 
 ![image](style2sizeimg.JPG) 
 
-the style for my web site i have chosen is style two 
+the style for my web site i have chosen is style two. 
+during the production of my webpage i made a few changes, the things i changed were the colour of the background i changed it from boring white to orange i decided to add a table in made with the help from W3schools i changed the coloutr of the search bar and search icon to a terquise/ blue. 
