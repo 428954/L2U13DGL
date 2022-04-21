@@ -96,7 +96,7 @@ https://paletton.com/#uid=10S0u0koQruffBkkku7s8mJvGhW
 | G  | &check;  |   |   |   |   |   
 
 
-![image](style2sizeimg.JPG) 
+![image](frontpage.JPG) 
 
 the style for my web site i have chosen is style two. 
-during the production of my webpage i made a few changes, the things i changed were the colour of the background i changed it from boring white to orange i decided to add a table in made with the help from W3schools i changed the coloutr of the search bar and search icon to a terquise/ blue. 
+during the production of my webpage i made a few changes, also i added a video on the front page, the things i changed were the colour of the background i changed it from boring white to orange i decided to add a table in made with the help from W3schools i changed the coloutr of the search bar and search icon to a terquise/ blue. 
