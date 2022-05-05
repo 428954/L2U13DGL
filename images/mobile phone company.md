@@ -107,3 +107,15 @@ this is the URL to my website comparison:
 # file structure 
 ![image](filetree.JPG)
 ![image](filefoldertree.JPG)
+# test plan 
+my target audience for my webpage is anyone of the age to buy a mobile phone e.g. teenagers or parents. 
+
+the requirments needed for the wepage are a working navagation system, a table with content a peice of media with relevance to the webpage (interactive content), it should have some sort of typeography and images of products. 
+
+the test that will be carried out will consist of the checking of each link that i added in the bar on the left, it will also consist of checking wether th youtube videpo i added works well and that my colour scheme meets what people like.
+
+i will also will checking the consistencey of the flow in the website and how well it looks. 
+# justifying the design
+![image](maindesign.JPG)  
+
+i went for this design because i think the colours have a strange contrast but i also think it looks nice. the colours were  an alternative route to what i planed, i chose them mainly because during the process of creating the page i thought these were better than what i origanally thought about using. 
