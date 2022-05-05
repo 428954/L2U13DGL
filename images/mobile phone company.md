@@ -100,3 +100,10 @@ https://paletton.com/#uid=10S0u0koQruffBkkku7s8mJvGhW
 
 the style for my web site i have chosen is style two. 
 during the production of my webpage i made a few changes, also i added a video on the front page, the things i changed were the colour of the background i changed it from boring white to orange i decided to add a table in made with the help from W3schools i changed the coloutr of the search bar and search icon to a terquise/ blue. 
+# webpage comparison
+this is the URL to my website comparison: 
+### https://sway.office.com/NtVz2VpChtU5QPOi 
+![image](webpagecomparisonsnew.pdf) 
+# file structure 
+![image](filetree.JPG)
+![image](filefoldertree.JPG)
