@@ -116,28 +116,19 @@ body {
 }
 .image1{
     display: flex;
-    background-color: #f14f0e
-    
-    
-    
-    
-    
-    ;
     position: relative;
     justify-content: center; align-items: center;height: 100%; width: 15%; color: rgb(7, 7, 7);
     font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px;
 }
 .image2{
     display: flex;
-    background-color: #f14f0e;
-    position: relative;
     justify-content: center; align-items: center;height: 100%; width: 15%; color: rgb(7, 7, 7);
     font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px; 
 
 }
 .image3{
     display: flex;
-    background-color: #f14f0e;
+   
     position: relative;
     justify-content: center; align-items: center;height: 100%; width: 15%; color: rgb(0, 0, 0);
     font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px;
@@ -145,7 +136,7 @@ body {
 }
 .image4{
     display: flex;
-    background-color: #f14f0e;
+    
     position: relative;
     justify-content: center; align-items: center;height: 100%; width: 15%; color: rgb(12, 12, 12);
     font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px;
@@ -153,7 +144,7 @@ body {
 }
 .image5{
     display: flex;
-    background-color:#f14f0e;
+   
     position: relative;
     justify-content: center; align-items: center;height: 100%; width: 15%; color: rgb(7, 7, 7);
     font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px;
@@ -161,13 +152,15 @@ body {
 }`
 .image6{
     display: flex;
-    background-color: #f14f0e;
     position: relative;
     justify-content: center; align-items: center;height: 100%; width: 15%; color: rgb(0, 0, 0);
     font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px;
 
 }
 .gap{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     height:50px;
     width: 100%;
 }

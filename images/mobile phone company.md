@@ -97,9 +97,9 @@ https://paletton.com/#uid=10S0u0koQruffBkkku7s8mJvGhW
 
 
 ![image](frontpage.JPG) 
-
+![image](style2finished.JPG)
 the style for my web site i have chosen is style two. 
-during the production of my webpage i made a few changes, also i added a video on the front page, the things i changed were the colour of the background i changed it from boring white to orange i decided to add a table in made with the help from W3schools i changed the coloutr of the search bar and search icon to a terquise/ blue. 
+during the production of my webpage i made a few changes, also i added a video on the front page, the things i changed were the colour of the background i changed it from boring white to orange i decided to add a table in made with the help from W3schools i changed the coloutr of the search bar and search icon to a terquise/ blue.As you can see from the images above there are some major diferences like the second table the layout and the youtube video that i added..  
 # webpage comparison
 this is the URL to my website comparison: 
 ### https://sway.office.com/NtVz2VpChtU5QPOi 
@@ -118,4 +118,16 @@ i will also will checking the consistencey of the flow in the website and how we
 # justifying the design
 ![image](maindesign.JPG)  
 
-i went for this design because i think the colours have a strange contrast but i also think it looks nice. the colours were  an alternative route to what i planed, i chose them mainly because during the process of creating the page i thought these were better than what i origanally thought about using. 
+i went for this design because i think the colours have a strange contrast but i also think it looks nice. the colours were  an alternative route to what i planed, i chose them mainly because during the process of creating the page i thought these were better than what i origanally thought about using.As you can see from the images above there are some major diferences like the second table the layout and the youtube video that i added which was needed for the webpage.  
+# testing 
+![image](searchbar.JPG)
+this is my search bar and it is a functonal part of the wbpage to a certain extent, for exampe what you search in it wont redirect you to the page you want but you still can type in it.and over all it looks great. 
+![image](youtubeclip.JPG)
+### https://youtu.be/oPR_LU5YNeo
+This is a youtube clip of the samsung galaxy s22 offical reveal clip, it is a very good peice to the webpage mainly because it is functonal as in you can play, puse, share and switch between full screen and normal screen easily overall a decent additon. 
+![image](links.JPG)  
+this is a section i added because i thought it would be the most easiest and funconal way of navagation to gert to one place to another and it does function as i wanted.  
+# feedback 
+luke:said "it looks good, the colors are nice its funconal and easy to navagate however on the other pages i would add a back button" 
+patryk:said "its funconal, looks good and the colours work well howerver i would change the fact that when you change the page size the table moves over the video" 
+ugnius:said"it looks good is funconal and easily navagated however the phones on each of their pages needs information bellow them". 
