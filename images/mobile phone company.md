@@ -131,3 +131,5 @@ this is a section i added because i thought it would be the most easiest and fun
 luke:said "it looks good, the colors are nice its funconal and easy to navagate however on the other pages i would add a back button" 
 patryk:said "its funconal, looks good and the colours work well howerver i would change the fact that when you change the page size the table moves over the video" 
 ugnius:said"it looks good is funconal and easily navagated however the phones on each of their pages needs information bellow them". 
+
+based on my feedback i decided to add information underneith the samsung and iphone images, i have rejected the table movment issue because it require to much coding to get done before the deadline of this unit. 

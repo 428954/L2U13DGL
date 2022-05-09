@@ -137,7 +137,7 @@ body {
 .image4{
     display: flex;
     
-    position: relative;
+   
     justify-content: center; align-items: center;height: 100%; width: 15%; color: rgb(12, 12, 12);
     font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px;
 
@@ -145,14 +145,13 @@ body {
 .image5{
     display: flex;
    
-    position: relative;
+   
     justify-content: center; align-items: center;height: 100%; width: 15%; color: rgb(7, 7, 7);
     font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px;
 
 }`
 .image6{
     display: flex;
-    position: relative;
     justify-content: center; align-items: center;height: 100%; width: 15%; color: rgb(0, 0, 0);
     font-family: 'Open Sans', sans-serif; flex-wrap: wrap;border-radius: 25px;
 
@@ -269,3 +268,7 @@ table, th, td {
 .main button:hover{
 
     opacity: .8;
+}
+.A22text{
+    font-size: 13px;
+}
