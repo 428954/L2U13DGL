@@ -126,7 +126,7 @@ this is my search bar and it is a functonal part of the wbpage to a certain exte
 ### https://youtu.be/oPR_LU5YNeo
 This is a youtube clip of the samsung galaxy s22 offical reveal clip, it is a very good peice to the webpage mainly because it is functonal as in you can play, puse, share and switch between full screen and normal screen easily overall a decent additon. 
 ![image](links.JPG)  
-this is a section i added because i thought it would be the most easiest and funconal way of navagation to gert to one place to another and it does function as i wanted.  
+this is a section i added because i thought it would be the most easiest and funconal way of navagation to get to one place to another and it does function as i wanted.  
 # feedback 
 luke:said "it looks good, the colors are nice its funconal and easy to navagate however on the other pages i would add a back button" 
 patryk:said "its funconal, looks good and the colours work well howerver i would change the fact that when you change the page size the table moves over the video" 
