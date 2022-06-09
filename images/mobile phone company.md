@@ -55,7 +55,8 @@ i these theree colors because i think they will look great togeather in one webp
 ##### google pixle 6 URL:http://media.4rgos.it/s/Argos/1171134_R_SET?$Main768$&w=620&h=620
  ![image](googlepxl6.jpg) 
  with each company i chose, i picked out 3 different phones from each of them and will use them in my webpage ive saved the links of each to comply with copyright.
-
+ ZFLIP3CASE
+# https://uk.burga.com/products/elegant-samsung-galaxy-z-flip-3-5g-case?currency=GBP&variant=40032551796772&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&g_acctid=562-512-8393&g_adgroupid=110075936822&g_adid=478357281523&g_adtype=&g_campaign=(285-270-280-265-250-265-280-300)%2BAndroid%2BPhone%2BCases%2B-%2BUK&g_campaignid=11575248386&g_ifcreative=&g_ifproduct=product&g_keyword=&g_keywordid=pla-805609344391&g_merchantid=275433660&g_network=u&g_partition=805609344391&g_productchannel=online&g_productid=shopify_GB_6952608694308_40032551796772&gclid=EAIaIQobChMIyfLpoPuf-AIVG49oCR1_ogKrEAQYAiABEgLPGfD_BwE
 style 1 
  ![image](logo.jpg) 
  ![image](webpageimg.jpg)
