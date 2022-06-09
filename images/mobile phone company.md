@@ -138,3 +138,14 @@ patryk:said "its funconal, looks good and the colours work well howerver i would
 ugnius:said"it looks good is funconal and easily navagated however the phones on each of their pages needs information bellow them". 
 
 based on my feedback i decided to add information underneith the samsung and iphone images, i have rejected the table movment issue because it require to much coding to get done before the deadline of this unit. 
+
+![image](improvedhomepage.JPG) 
+this is a screenshot of my progress with the new link ive added to my homepage.each link will take you to a page of eachy companoe and some accessories.
+![image](samsungaccessories.JPG) 
+this is a screenshot of the samsung accessories page
+![image](appleaccessories.JPG)
+this is a screenshot of the apple accessories page 
+![image](googleaccessories.JPG)
+this is a screenshot of the google accessories page 
+![image](huaweiaccessories.JPG)
+this is a screenshot of the huawei accessories page
