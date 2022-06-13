@@ -210,4 +210,16 @@ These are all my apple accessories images and links
 ![image](googlehomebase.JPG)
 
 these are the google accessories images and links
+## https://www.amazon.co.uk/SONWO-Premium-Leather-Magnetic-Kickstand/dp/B08Q7YTFJ8/ref=sr_1_5?crid=3VLQ11831PIPN&keywords=p+smart+case&qid=1655112593&sprefix=p+smart+case%2Caps%2C107&sr=8-5
 
+## https://consumer.huawei.com/en/speakers/sound-joy/
+
+## https://consumer.huawei.com/en/tablets/
+
+## https://consumer.huawei.com/en/headphones/freebuds-studio/
+![image](p40pluscase.JPG)
+![image](p40litecase.JPG)
+![image](psmartcase.JPG)
+![image](huaweiSoundJoyPortableBluetoothSpeaker.JPG)
+![image](huaweiBand6FitnessrackerGraphiteBlack.JPG)
+![image](HUAWEIFREEBUDSSTUDIOWirelessEarphones.JPG)
