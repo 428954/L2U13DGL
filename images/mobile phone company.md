@@ -188,9 +188,26 @@ these are all my samsung accessorise images and there links.
 
 These are all my apple accessories images and links 
 
-![image](.JPG)
-![image](.JPG)
-![image](.JPG)
-![image](.JPG)
-![image](.JPG)
-![image](.JPG)
+## https://www.amazon.co.uk/YATWIN-Google-Pixel-Soft-Touch-Shockproof-Dark-Green/dp/B09LQTPMNZ/ref=sr_1_6?crid=3QWNPNFN5UZGJ&keywords=google+pixel+6+case&qid=1655110921&sprefix=google+%2Caps%2C48&sr=8-6
+
+## https://www.amazon.co.uk/Unov-Compatible-Protective-Embossed-Absorption-Rainbow-Dinosaur/dp/B08KFYG2CC/ref=sr_1_10_sspa?crid=3K34RP56BBM4W&keywords=pixel%2B5%2Bsurf%2Bcase&qid=1655111054&sprefix=pixel%2B5%2Bsurf%2B%2Caps%2C59&sr=8-10-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSkxSNUQ4RzE1VjNCJmVuY3J5cHRlZElkPUEwODIyODQ2MjBSN0RPR1lJVzk1OSZlbmNyeXB0ZWRBZElkPUEwMjMyNDMyMVVWWUY4NjlWTVU3MyZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1
+
+## https://www.amazon.co.uk/Asuwish-Compatible-Tempered-Protector-Shockproof-Blue/dp/B09NKBGS4T/ref=sr_1_14?crid=76N9ELK8RZXZ&keywords=google+pixel+4+case+blue&qid=1655111232&sprefix=google+pixel+4+case+%2Caps%2C81&sr=8-14
+
+## https://store.google.com/product/pixel_buds_a_series?hl=en-GB 
+
+## https://store.google.com/search?q=google%20nest%20mini&hl=en-GB
+
+## https://store.google.com/product/usb_c_30w_charger?hl=en-GB
+
+## https://store.google.com/search?q=googlehomebase&hl=en-GB
+![image](googlepxl6case.JPG)
+![image](googlepxl5case.JPG)
+![image](googlepxl4case.JPG)
+![image](googlepxlbuds.JPG)
+![image](googlenestmini.JPG)
+![image](googleUSBCpowercharger.JPG)
+![image](googlehomebase.JPG)
+
+these are the google accessories images and links
+
