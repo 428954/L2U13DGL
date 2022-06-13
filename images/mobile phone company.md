@@ -149,3 +149,4 @@ this is a screenshot of the apple accessories page
 this is a screenshot of the google accessories page 
 ![image](huaweiaccessories.JPG)
 this is a screenshot of the huawei accessories page
+
