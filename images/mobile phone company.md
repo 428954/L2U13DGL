@@ -214,8 +214,6 @@ these are the google accessories images and links
 
 ## https://consumer.huawei.com/en/speakers/sound-joy/
 
-## https://consumer.huawei.com/en/tablets/
-
 ## https://consumer.huawei.com/en/headphones/freebuds-studio/
 ![image](p40pluscase.JPG)
 ![image](p40litecase.JPG)
