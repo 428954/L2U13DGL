@@ -149,4 +149,29 @@ this is a screenshot of the apple accessories page
 this is a screenshot of the google accessories page 
 ![image](huaweiaccessories.JPG)
 this is a screenshot of the huawei accessories page
+# more of my images i used 
+## https://www.samsung.com/uk/mobile-accessories/galaxy-a22-5g-soft-clear-cover-transparent-ef-qa226ttegeu/
 
+## https://www.samsung.com/uk/mobile-accessories/galaxy-s21-ultra-5g-protective-standing-cover-black-ef-rg998cbegww/
+
+## https://uk.burga.com/products/elegant-samsung-galaxy-z-fold-3-5g-case?currency=GBP&variant=40032831897636&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&g_acctid=562-512-8393&g_adgroupid=110075936822&g_adid=478357281523&g_adtype=&g_campaign=(285-270-280-265-250-265-280-300)%2BAndroid%2BPhone%2BCases%2B-%2BUK&g_campaignid=11575248386&g_ifcreative=&g_ifproduct=product&g_keyword=&g_keywordid=pla-805609344391&g_merchantid=275433660&g_network=u&g_partition=805609344391&g_productchannel=online&g_productid=shopify_GB_6952654209060_40032831897636&gclid=EAIaIQobChMIsduO8IOq-AIVkoBQBh0nnAaKEAQYAiABEgK70PD_BwE
+
+## https://www.samsung.com/uk/audio-sound/galaxy-buds/galaxy-buds-plus-black-sm-r175nzkaeua/
+
+![image](A22softclearcase.JPG)
+![image](A22softclearcoverblackcase.JPG)
+![image](S21ultraprotectivestandingcase.JPG)
+![image](S21ultraprotectivestandingsilvercase.JPG)
+![image](EmeraldPoolGalaxyZFlip3Case2.JPG) 
+![image](EmeraldPoolGalaxyZFlip3Case.JPG)
+![image](galaxybuds.JPG)
+
+these are all my samsung accessorise images and there links. 
+
+![image](.JPG)
+![image](.JPG)
+![image](.JPG)
+![image](.JPG)
+![image](.JPG)
+![image](.JPG)
+![image](.JPG)
