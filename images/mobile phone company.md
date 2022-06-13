@@ -167,8 +167,27 @@ this is a screenshot of the huawei accessories page
 ![image](galaxybuds.JPG)
 
 these are all my samsung accessorise images and there links. 
+## https://www.amazon.co.uk/Apple-Leather-Case-MagSafe-iPhone/dp/B09G8XQ5KX?th=1
 
-![image](.JPG)
+## https://www.apple.com/uk/shop/product/MWVG2ZM/A/iphone-11-clear-case?fnode=7bfab4627830826898cfa740973cf2bcaeb46a7da84b4f39c67ba528633946a4ec6cc375898a7f172a01f67e942ad801a049e7bb5dfb637d58d3cd64ccf385622287e87bbce90df75bf3e1a56047c6444a00488d3dad806d9a24d55f905f9134
+
+## https://www.apple.com/uk/shop/product/MXYM2ZM/A/iphone-se-leather-case-black?fnode=af85a55edad194e70ce2913c348b7f05b4d61395b598b5048ecb8b7346a6fb1614816adde581f4ad33ea6a1cff85b3f4b0e5407ab7257ab15cd2a394f63b878bf85a8634fe49b413e9ed3151771e89afba5086d95d70d15eeb9232bcff510993
+
+## https://www.apple.com/uk/search/airpodsmax?src=globalnav
+
+## https://www.apple.com/uk/search/AirPods-Pro?src=serp
+
+## https://www.apple.com/uk/search/applewatchSE?src=serp
+![image](iPhone13ProLeatherMidnightcase.JPG)
+![image](iphone11case.JPG)
+![image](iphoneSEcaseblack.JPG)
+![image](iphoneSEcasered.JPG)
+![image](airpodsmax.JPG)
+![image](airpodspro.JPG)
+![image](applewatchSE.JPG)
+
+These are all my apple accessories images and links 
+
 ![image](.JPG)
 ![image](.JPG)
 ![image](.JPG)
