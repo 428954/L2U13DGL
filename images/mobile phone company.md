@@ -19,36 +19,36 @@ this catogory usally has three types of stakeholders to be spercific, customers 
 * flowing standards 
 # color scheme 
 ##### palette URL:https://paletton.com/#uid=13L0u0kpdFtFBhlFBhlsO++sO++
-![image](../images/imagesdoc/.JPG)
+![image](../images/imagesdoc/orange.JPG)
 # images used 
 # SAMSUNG 
 ##### z flip 3 URL:https://www.google.com/search?q=galaxy+z+flip3+5g&rlz=1C1GCEA_enGB972GB973&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjyk9jij8r1AhXNQkEAHcf5CUUQ_AUoA3oECAEQBQ&biw=1920&bih=969&dpr=1&safe=active&ssui=on#imgrc=KmniNbxMGEltWM 
 ![image](samsungzflip3.jpg) 
 ##### galazyA22 URL: https://www.google.com/search?q=galaxy+a22&tbm=isch&ved=2ahUKEwiWuMvkj8r1AhVPM8AKHd5kDfcQ2-cCegQIABAA&oq=galaxy+A22&gs_lcp=CgNpbWcQARgAMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoGCAAQCBAeOgQIABAYOgYIABAKEBg6CAgAEIAEELEDUMsSWOUyYMI5aABwAHgAgAE2iAHvAZIBATWYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=3nfuYZbRLs_mgAbeybW4Dw&bih=969&biw=1920&rlz=1C1GCEA_enGB972GB973&safe=active&ssui=on#imgrc=BjkE94e7DqyK2M 
-![image](galaxyA22.jpg) 
+![image](../images/imagesdoc/galaxyA22.jpg) 
 ##### galazyS21ultra URL:https://www.google.com/search?q=galaxy+s21+ultra&tbm=isch&ved=2ahUKEwj7qN-dkcr1AhVMYfEDHXQ5AAYQ2-cCegQIABAA&oq=galaxy+s21+ulk&gs_lcp=CgNpbWcQARgAMgYIABAKEBg6BAgAEEM6BQgAEIAEOggIABCABBCxAzoKCAAQsQMQgwEQQzoLCAAQgAQQsQMQgwFQkwZY3llg7m9oB3AAeAGAATmIAYgHkgECMTmYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABAMABAQ&sclient=img&ei=Y3nuYbvrA8zCxc8P9PKAMA&bih=969&biw=1920&rlz=1C1GCEA_enGB972GB973&safe=active&ssui=on#imgrc=0MbrnC5C5avxsM 
-![IMAGE](galaxyS21ultra.jpg) 
+![IMAGE](../images/imagesdoc/galaxyS21ultra.jpg) 
 # APPLE 
 ##### iphone 13 pro URL: https://www.google.com/search?q=iphone+13+pro&rlz=1C1GCEA_enGB972GB973&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi3uonik8r1AhWJTcAKHfhjAXUQ_AUoAnoECAIQBA&biw=1920&bih=969&dpr=1&safe=active&ssui=on#imgrc=_5teDp9s-n_FhM
-![IMAGE](iphone13pro.jpg) 
+![IMAGE](../images/imagesdoc/iphone13pro.jpg) 
 ##### iphone11 URL:https://www.google.com/search?q=iphone+11&tbm=isch&ved=2ahUKEwiks-Lik8r1AhVaXvEDHWVbCvIQ2-cCegQIABAA&oq=iphone+&gs_lcp=CgNpbWcQARgGMgoIABCxAxCDARBDMgoIABCxAxCDARBDMgQIABBDMggIABCABBCxAzIECAAQQzIECAAQQzIICAAQgAQQsQMyCAgAEIAEELEDMggIABCABBCxAzIICAAQgAQQsQM6BAgAEANQwhBYmBZghSNoAHAAeACAATiIAZ4BkgEBM5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=DHzuYaT9Kdq8xc8P5bapkA8&bih=969&biw=1920&rlz=1C1GCEA_enGB972GB973&safe=active&ssui=on#imgrc=OhOM4QNHCda9YM
-![image](iphone11.jpg)
+![image](../images/imagesdoc/iphone11.jpg)
 #### iphoneSE URL:https://www.google.com/search?q=iphone+se&tbm=isch&ved=2ahUKEwjC5Ym-lMr1AhX3aPEDHdqPBQ4Q2-cCegQIABAA&oq=iphone+se&gs_lcp=CgNpbWcQAzIICAAQgAQQsQMyCAgAEIAEELEDMgUIABCABDIICAAQgAQQsQMyBQgAEIAEMggIABCABBCxAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgAELEDEEM6BAgAEEM6CwgAEIAEELEDEIMBUKcGWIARYM4VaABwAHgAgAE1iAH-AZIBATWYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=zHzuYcLPCvfRxc8P2p-WcA&bih=969&biw=1920&rlz=1C1GCEA_enGB972GB973&safe=active&ssui=on#imgrc=7g_C-C7lw7HAoM
-![IMAGE](iphoneSE.JPG) 
+![IMAGE](../images/imagesdoc/iphoneSE.JPG) 
 # HUAWEI 
 ##### huawei p40 plus URL:https://www.google.com/search?q=p40+pro+plus&tbm=isch&ved=2ahUKEwjn39P1lcr1AhWYVPEDHW8mA6EQ2-cCegQIABAA&oq=P40+pro+&gs_lcp=CgNpbWcQARgAMgQIABBDMgQIABBDMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgAELEDEEM6CggAELEDEIMBEEM6CAgAEIAEELEDOgsIABCABBCxAxCDAToICAAQsQMQgwE6CAgAEAUQChAeOgYIABAKEBg6BAgAEBhQ1AlYlIIBYLCOAWgFcAB4AIABOogB9wOSAQIxMJgBAKABAaoBC2d3cy13aXotaW1nsAEAwAEB&sclient=img&ei=TX7uYaeFCpipxc8P78yMiAo&bih=969&biw=1920&rlz=1C1GCEA_enGB972GB973&safe=active&ssui=on#imgrc=XQ_TkjGLz-lx_M 
-![IMAGE](P40plus.jpg)
+![IMAGE](../images/imagesdoc/P40plus.jpg)
 ##### psmart URL:https://www.google.com/search?q=psmart+&tbm=isch&ved=2ahUKEwiItYjXl8r1AhWsYfEDHRIHBicQ2-cCegQIABAA&oq=psmart+&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgAEEM6BggAEAcQHjoICAAQCBAHEB5Qow9YlzlgvjtoAHAAeACAATuIAbcDkgEBOZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=JYDuYciONqzDxc8Pko6YuAI&bih=969&biw=1920&rlz=1C1GCEA_enGB972GB973&safe=active&ssui=on#imgrc=uRyjLOd_8ugOpM
-![image](psmart.jpg) 
+![image](../images/imagesdoc/psmart.jpg) 
 ##### p40 lite URL:https://www.google.com/search?q=p40+lite&tbm=isch&rlz=1C1GCEA_enGB972GB973&hl=en-US&sa=X&ved=2ahUKEwjig6iKmsr1AhUwYPEDHSWzBwMQBXoECAEQPw&biw=1903&bih=969&safe=active&ssui=on#imgrc=YrSMsyQ-tYp-sM
-![imager](p40lite.jpg)
+![imager](../images/imagesdoc/p40lite.jpg)
 # GOOGLE 
 ##### google pixle 4 URL: https://www.google.com/search?q=google+pixel+4&tbm=isch&ved=2ahUKEwiq9rSLmsr1AhVCXvEDHXeJCo4Q2-cCegQIABAA&oq=google+&gs_lcp=CgNpbWcQARgBMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgQIABBDMgoIABCxAxCDARBDMgcIABCxAxBDMgcIABCxAxBDMggIABCABBCxAzIECAAQQzoFCAAQgAQ6CAgAELEDEIMBUMUGWNtEYNeNAWgMcAB4AIABaYgBlwSSAQM4LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABAMABAQ&sclient=img&ei=rILuYarwIMK8xc8P95Kq8Ag&bih=969&biw=1903&rlz=1C1GCEA_enGB972GB973&hl=en-US&safe=active&ssui=on#imgrc=CxpW0uzTon4SZM&imgdii=JlQ7YfxDt0BXNM
-![image](googlepxl4.jpg) 
+![image](../images/imagesdoc/googlepxl4.jpg) 
 ##### google pixle 5 URL: https://cdn.dxomark.com/wp-content/uploads/medias/post-60399/google_pixel_5_frontback.jpeg 
-![image](googlepxl5.jpg) 
+![image](../images/imagesdoc/googlepxl5.jpg) 
 ##### google pixle 6 URL:http://media.4rgos.it/s/Argos/1171134_R_SET?$Main768$&w=620&h=620
- ![image](googlepxl6.jpg) 
+ ![image](../images/imagesdoc/googlepxl6.jpg) 
  with each company i chose, i picked out 3 different phones from each of them and will use them in my webpage ive saved the links of each to comply with copyright.
  ZFLIP3CASE
 # https://uk.burga.com/products/elegant-samsung-galaxy-z-flip-3-5g-case?currency=GBP&variant=40032551796772&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&g_acctid=562-512-8393&g_adgroupid=110075936822&g_adid=478357281523&g_adtype=&g_campaign=(285-270-280-265-250-265-280-300)%2BAndroid%2BPhone%2BCases%2B-%2BUK&g_campaignid=11575248386&g_ifcreative=&g_ifproduct=product&g_keyword=&g_keywordid=pla-805609344391&g_merchantid=275433660&g_network=u&g_partition=805609344391&g_productchannel=online&g_productid=shopify_GB_6952608694308_40032551796772&gclid=EAIaIQobChMIyfLpoPuf-AIVG49oCR1_ogKrEAQYAiABEgLPGfD_BwE
@@ -57,8 +57,8 @@ google pixel 6
 pixel 5
 # https://www.amazon.co.uk/Unov-Compatible-Protective-Embossed-Absorption-Great-Wave/dp/B08KFYG2CC/ref=sr_1_2_sspa?crid=1BOSFN24M669D&keywords=pixel+5+phone+case&qid=1654768180&sprefix=pixel+5+phone+case%2Caps%2C104&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVEZWTE9ON0ZUT1JRJmVuY3J5cHRlZElkPUEwNjMzNTg3MjRSWElSQVJFU1BTNCZlbmNyeXB0ZWRBZElkPUEwMDE0NTUwVVdFUU9XWU8xWkhDJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
 style 1 
- ![image](logo.jpg) 
- ![image](webpageimg.jpg)
+ ![image](../images/imagesdoc/logo.jpg) 
+ ![image](../images/imagesdoc/webpageimg.jpg)
 
 H= homepage
 S= samsung 
@@ -81,11 +81,11 @@ C= checkout
 style 2 
 https://paletton.com/#uid=10S0u0koQruffBkkku7s8mJvGhW 
 
-![image](goldbronzehex.jpg)
-![image](silvergrey.jpg)
-![image](palepurple.jpg) 
-![image](daphonify.jpg)  
-![image](style2.jpg)
+![image](../images/imagesdoc/goldbronzehex.jpg)
+![image](../images/imagesdoc/silvergrey.jpg)
+![image](../images/imagesdoc/palepurple.jpg) 
+![image](../images/imagesdoc/daphonify.jpg)  
+![image](../images/imagesdoc/style2.jpg)
 
 |   | H  | S  | A  | H  |  G |  |
 |---|---|---|---|---|---|---|
@@ -96,17 +96,17 @@ https://paletton.com/#uid=10S0u0koQruffBkkku7s8mJvGhW
 | G  | &check;  |   |   |   |   |   
 
 
-![image](frontpage.JPG) 
-![image](style2finished.JPG)
+![image](../images/imagesdoc/frontpage.JPG) 
+![image](../images/imagesdoc/style2finished.JPG)
 the style for my web site i have chosen is style two. 
 during the production of my webpage i made a few changes, also i added a video on the front page, the things i changed were the colour of the background i changed it from boring white to orange i decided to add a table in made with the help from W3schools i changed the coloutr of the search bar and search icon to a terquise/ blue.As you can see from the images above there are some major diferences like the second table the layout and the youtube video that i added..  
 # webpage comparison
 this is the URL to my website comparison: 
 ### https://sway.office.com/NtVz2VpChtU5QPOi 
-![image](webpagecomparisonsnew.pdf) 
+![image](../images/imagesdoc/webpagecomparisonsnew.pdf) 
 # file structure 
-![image](filetree.JPG)
-![image](filefoldertree.JPG)
+![image](../images/imagesdoc/filetree.JPG)
+![image](../images/imagesdoc/filefoldertree.JPG)
 # test plan 
 my target audience for my webpage is anyone of the age to buy a mobile phone e.g. teenagers or parents. 
 
@@ -116,16 +116,16 @@ the test that will be carried out will consist of the checking of each link that
 
 i will also will checking the consistencey of the flow in the website and how well it looks. 
 # justifying the design
-![image](maindesign.JPG)  
+![image](../images/imagesdoc/maindesign.JPG)  
 
 i went for this design because i think the colours have a strange contrast but i also think it looks nice. the colours were  an alternative route to what i planed, i chose them mainly because during the process of creating the page i thought these were better than what i origanally thought about using.As you can see from the images above there are some major diferences like the second table the layout and the youtube video that i added which was needed for the webpage.  
 # testing 
-![image](searchbar.JPG)
+![image](../images/imagesdoc/searchbar.JPG)
 this is my search bar and it is a functonal part of the wbpage to a certain extent, for exampe what you search in it wont redirect you to the page you want but you still can type in it.and over all it looks great. 
-![image](youtubeclip.JPG)
+![image](../images/imagesdoc/youtubeclip.JPG)
 ### https://youtu.be/oPR_LU5YNeo
 This is a youtube clip of the samsung galaxy s22 offical reveal clip, it is a very good peice to the webpage mainly because it is functonal as in you can play, puse, share and switch between full screen and normal screen easily overall a decent additon. 
-![image](links.JPG)  
+![image](../images/imagesdoc/links.JPG)  
 this is a section i added because i thought it would be the most easiest and funconal way of navagation to get to one place to another and it does function as i wanted.  
 # feedback 
 luke:said "it looks good, the colors are nice its funconal and easy to navagate however on the other pages i would add a back button" 
@@ -134,15 +134,15 @@ ugnius:said"it looks good is funconal and easily navagated however the phones on
 
 based on my feedback i decided to add information underneith the samsung and iphone images, i have rejected the table movment issue because it require to much coding to get done before the deadline of this unit. 
 
-![image](improvedhomepage.JPG) 
+![image](../images/imagesdoc/improvedhomepage.JPG) 
 this is a screenshot of my progress with the new link ive added to my homepage.each link will take you to a page of eachy companoe and some accessories.
-![image](samsungaccessories.JPG) 
+![image](../images/imagesdoc/samsungaccessories.JPG) 
 this is a screenshot of the samsung accessories page
-![image](appleaccessories.JPG)
+![image](../images/imagesdoc/appleaccessories.JPG)
 this is a screenshot of the apple accessories page 
-![image](googleaccessories.JPG)
+![image](../images/imagesdoc/googleaccessories.JPG)
 this is a screenshot of the google accessories page 
-![image](huaweiaccessories.JPG)
+![image](../images/imagesdoc/huaweiaccessories.JPG)
 this is a screenshot of the huawei accessories page
 # more of my images i used 
 ## https://www.samsung.com/uk/mobile-accessories/galaxy-a22-5g-soft-clear-cover-transparent-ef-qa226ttegeu/
@@ -153,13 +153,13 @@ this is a screenshot of the huawei accessories page
 
 ## https://www.samsung.com/uk/audio-sound/galaxy-buds/galaxy-buds-plus-black-sm-r175nzkaeua/
 
-![image](A22softclearcase.JPG)
-![image](A22softclearcoverblackcase.JPG)
-![image](S21ultraprotectivestandingcase.JPG)
-![image](S21ultraprotectivestandingsilvercase.JPG)
-![image](EmeraldPoolGalaxyZFlip3Case2.JPG) 
-![image](EmeraldPoolGalaxyZFlip3Case.JPG)
-![image](galaxybuds.JPG)
+![image](../images/imagesdoc/A22softclearcase.JPG)
+![image](../images/imagesdoc/A22softclearcoverblackcase.JPG)
+![image](../images/imagesdoc/S21ultraprotectivestandingcase.JPG)
+![image](../images/imagesdoc/S21ultraprotectivestandingsilvercase.JPG)
+![image](../images/imagesdoc/EmeraldPoolGalaxyZFlip3Case2.JPG) 
+![image](../images/imagesdoc/EmeraldPoolGalaxyZFlip3Case.JPG)
+![image](../images/imagesdoc/galaxybuds.JPG)
 
 these are all my samsung accessorise images and there links. 
 ## https://www.amazon.co.uk/Apple-Leather-Case-MagSafe-iPhone/dp/B09G8XQ5KX?th=1
@@ -173,13 +173,13 @@ these are all my samsung accessorise images and there links.
 ## https://www.apple.com/uk/search/AirPods-Pro?src=serp
 
 ## https://www.apple.com/uk/search/applewatchSE?src=serp
-![image](iPhone13ProLeatherMidnightcase.JPG)
-![image](iphone11case.JPG)
-![image](iphoneSEcaseblack.JPG)
-![image](iphoneSEcasered.JPG)
-![image](airpodsmax.JPG)
-![image](airpodspro.JPG)
-![image](applewatchSE.JPG)
+![image](../images/imagesdoc/iPhone13ProLeatherMidnightcase.JPG)
+![image](../images/imagesdoc/iphone11case.JPG)
+![image](../images/imagesdoc/iphoneSEcaseblack.JPG)
+![image](../images/imagesdoc/iphoneSEcasered.JPG)
+![image](../images/imagesdoc/airpodsmax.JPG)
+![image](../images/imagesdoc/airpodspro.JPG)
+![image](../images/imagesdoc/applewatchSE.JPG)
 
 These are all my apple accessories images and links 
 
@@ -196,13 +196,13 @@ These are all my apple accessories images and links
 ## https://store.google.com/product/usb_c_30w_charger?hl=en-GB
 
 ## https://store.google.com/search?q=googlehomebase&hl=en-GB
-![image](googlepxl6case.JPG)
-![image](googlepxl5case.JPG)
-![image](googlepxl4case.JPG)
-![image](googlepxlbuds.JPG)
-![image](googlenestmini.JPG)
-![image](googleUSBCpowercharger.JPG)
-![image](googlehomebase.JPG)
+![image](../images/imagesdoc/googlepxl6case.JPG)
+![image](../images/imagesdoc/googlepxl5case.JPG)
+![image](../images/imagesdoc/googlepxl4case.JPG)
+![image](../images/imagesdoc/googlepxlbuds.JPG)
+![image](../images/imagesdoc/googlenestmini.JPG)
+![image](../images/imagesdoc/googleUSBCpowercharger.JPG)
+![image](../images/imagesdoc/googlehomebase.JPG)
 
 these are the google accessories images and links
 ## https://www.amazon.co.uk/SONWO-Premium-Leather-Magnetic-Kickstand/dp/B08Q7YTFJ8/ref=sr_1_5?crid=3VLQ11831PIPN&keywords=p+smart+case&qid=1655112593&sprefix=p+smart+case%2Caps%2C107&sr=8-5
@@ -210,9 +210,9 @@ these are the google accessories images and links
 ## https://consumer.huawei.com/en/speakers/sound-joy/
 
 ## https://consumer.huawei.com/en/headphones/freebuds-studio/
-![image](p40pluscase.JPG)
-![image](p40litecase.JPG)
-![image](psmartcase.JPG)
-![image](huaweiSoundJoyPortableBluetoothSpeaker.JPG)
-![image](huaweiBand6FitnessrackerGraphiteBlack.JPG)
-![image](HUAWEIFREEBUDSSTUDIOWirelessEarphones.JPG)
+![image](../images/imagesdoc/p40pluscase.JPG)
+![image](../images/imagesdoc/p40litecase.JPG)
+![image](../images/imagesdoc/psmartcase.JPG)
+![image](../images/imagesdoc/huaweiSoundJoyPortableBluetoothSpeaker.JPG)
+![image](../images/imagesdoc/huaweiBand6FitnessrackerGraphiteBlack.JPG)
+![image](../images/imagesdoc/HUAWEIFREEBUDSSTUDIOWirelessEarphones.JPG)
