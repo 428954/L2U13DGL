@@ -17,11 +17,14 @@ this catogory usally has three types of stakeholders to be spercific, customers 
 * quick and easy to implement- easy to make changes 
 * easy to test 
 * flowing standards 
+# task1 
+## https://sway.office.com/NtVz2VpChtU5QPOi
 # color scheme 
 ##### palette URL:https://paletton.com/#uid=13L0u0kpdFtFBhlFBhlsO++sO++
 ![image](../images/imagesdoc/orange.JPG)
 # images used 
 # SAMSUNG 
+![image](../images/imagesdoc/samsungzflip3.JPG)
 ##### z flip 3 URL:https://www.google.com/search?q=galaxy+z+flip3+5g&rlz=1C1GCEA_enGB972GB973&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjyk9jij8r1AhXNQkEAHcf5CUUQ_AUoA3oECAEQBQ&biw=1920&bih=969&dpr=1&safe=active&ssui=on#imgrc=KmniNbxMGEltWM 
 ![image](samsungzflip3.jpg) 
 ##### galazyA22 URL: https://www.google.com/search?q=galaxy+a22&tbm=isch&ved=2ahUKEwiWuMvkj8r1AhVPM8AKHd5kDfcQ2-cCegQIABAA&oq=galaxy+A22&gs_lcp=CgNpbWcQARgAMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoGCAAQCBAeOgQIABAYOgYIABAKEBg6CAgAEIAEELEDUMsSWOUyYMI5aABwAHgAgAE2iAHvAZIBATWYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=3nfuYZbRLs_mgAbeybW4Dw&bih=969&biw=1920&rlz=1C1GCEA_enGB972GB973&safe=active&ssui=on#imgrc=BjkE94e7DqyK2M 
