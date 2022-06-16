@@ -1,0 +1,85 @@
+*{ padding: 0px;
+margin: 0px;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background-color: #e0740a;
+}
+#logo{width: 10%;
+    height: 100%;
+}
+.middle{
+    width: 100%;
+    height: 100%;
+
+}
+
+#cart{width: 3%;
+    height: 100%;}
+    
+
+.topbar{
+    width: 100%;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.huawei-accessories{
+    width: 100%;
+    height: 50%;
+    
+    display: flex;
+    justify-content: space-between;
+}
+.huawei-accessories2{
+    width: 100%;
+    height: 50%;
+    
+    display: flex;
+    justify-content: space-between;
+}
+.space{ height: 20px;
+width: 100%;}
+.images1{
+    width: 20%;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.image2{
+    width:100%;
+    height: 400px;
+}
+
+.text1{}
+
+#image1{
+    width: 100%;
+    height: 100%;
+
+}
+#image2{
+    width: 100%;
+    height: 100%;
+}
+#image3{
+    width: 100%;
+    height: 100%;
+}
+#image4{
+    width: 100%;
+    height: 100%;
+}
+#image5{
+    width: 100%;
+    height: 100%;
+}
+#image6{
+    width: 100%;
+    height: 100%;
+}
+#image7{
+    width: 100%;
+    height: 100%;
+}
