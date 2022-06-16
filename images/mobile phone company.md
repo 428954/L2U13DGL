@@ -18,13 +18,8 @@ this catogory usally has three types of stakeholders to be spercific, customers 
 * easy to test 
 * flowing standards 
 # color scheme 
-##### palette URL:https://paletton.com/#uid=14E0u0k6hCh0LWL2+NOawtWfLoQ
-![image](palepurple.jpg)  
-##### palette URL:https://paletton.com/#uid=10I0u0k17pe06NJ0xuT26kn40fJ
-![image](silvergrey.jpg)
 ##### palette URL:https://paletton.com/#uid=13L0u0kpdFtFBhlFBhlsO++sO++
 ![image](lightdarkblue.jpg)
-i these theree colors because i think they will look great togeather in one webpage 
 # images used 
 # SAMSUNG 
 ##### z flip 3 URL:https://www.google.com/search?q=galaxy+z+flip3+5g&rlz=1C1GCEA_enGB972GB973&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjyk9jij8r1AhXNQkEAHcf5CUUQ_AUoA3oECAEQBQ&biw=1920&bih=969&dpr=1&safe=active&ssui=on#imgrc=KmniNbxMGEltWM 
