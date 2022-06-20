@@ -63,25 +63,21 @@ style 1
  ![image](../images/imagesdoc/logo.jpg) 
  ![image](../images/imagesdoc/webpageimg.jpg)
 
-H= homepage
-S= samsung 
-A= apple
-H= huawei 
-G= google
-C= checkout 
-|   |   |   |   |   |   |   |   |   |
+|   |Index|samsung+apple|google+huawei||  |
 |---|---|---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |
+|Index|&check;   |&check;   |  &check; | &check;  | &check;  | &check;  | &check;  |   |
+|samsung+apple| &check;  |X   | X  |  X |   X|  X | X  |   |
+|google+huawei|&check;   | X  | X  |  X | X  |  X | X  |   |
 |   |   |   |   |   |   |   |   |   |
 
- 
- 
+
+ |   |  index | samsung  | apple  | google  | huawei  |
+|---|---|---|---|---|---|
+| index  | &check;  | &check;  | &check;  | &check;  | &check;  |
+| samsung  | &check;  | X  | X  | X  | X  |
+| apple  | &check;  |  X |  X |  X |  X |
+| google  | &check;  |  X |  X |  X | X  |
+|huawei   |  &check; | X  | X  | X  | X  |
 
 style 2 
 https://paletton.com/#uid=10S0u0koQruffBkkku7s8mJvGhW 
@@ -103,10 +99,10 @@ https://paletton.com/#uid=10S0u0koQruffBkkku7s8mJvGhW
 |huawei access|&check;   | X  | X  | X  | X  | X  |  X |   |
 |   |   |   |   |   |   |   |   |   |
 
-![image](../images/imagesdoc/frontpage.JPG) 
+![image](../images/imagesdoc/improvedhomepage.JPG)
 ![image](../images/imagesdoc/style2finished.JPG)
 the style for my web site i have chosen is style two. 
-during the production of my webpage i made a few changes, also i added a video on the front page, the things i changed were the colour of the background i changed it from boring white to orange i decided to add a table in made with the help from W3schools i changed the coloutr of the search bar and search icon to a terquise/ blue.As you can see from the images above there are some major diferences like the second table the layout and the youtube video that i added..  
+during the production of my webpage i made a few changes, also i added a video on the front page, the things i changed were the colour of the background i changed it from boring white to orange i decided to add a table in made with the help from W3schools i changed the coloutr of the search bar and search icon to a terquise/ blue.As you can see from the images above there are some major diferences like the second table the layout and the youtube video that i added. The photoshop layout doesn't have everything i included in my home page,thisa is only due it being a breif design such as i now have more links to pages, a youtube video and a second table.
 # webpage comparison
 this is the URL to my website comparison: 
 ### https://sway.office.com/NtVz2VpChtU5QPOi 
