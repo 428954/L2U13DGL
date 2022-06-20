@@ -69,16 +69,18 @@ A= apple
 H= huawei 
 G= google
 C= checkout 
+|   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |
 
-
- |   | H  | S  | A  | H  |  G |  
-|---|---|---|---|---|---|---|
-| H  | &check;  | &check;  |  &check; | &check;  | &check;  
-&check;  |
-| S  | &check;  |  |   |   |   |   
-| A  | &check;  |   |  |   |   |   
-| H  |  &check; |   |   |   |   |   
-| G  | &check;  |   |   |   |   |   
+ 
  
 
 style 2 
@@ -89,15 +91,17 @@ https://paletton.com/#uid=10S0u0koQruffBkkku7s8mJvGhW
 ![image](../images/imagesdoc/palepurple.jpg) 
 ![image](../images/imagesdoc/daphonify.jpg)  
 ![image](../images/imagesdoc/style2.jpg)
-
-|   | H  | S  | A  | H  |  G |  |
-|---|---|---|---|---|---|---|
-| H  | &check;  | &check;  |  &check; | &check;  | &check;  | &check;  |
-| S  | &check;  |  |   |   |   |   
-| A  | &check;  |   |  |   |   |   
-| H  |  &check; |   |   |   |   |   
-| G  | &check;  |   |   |   |   |   
-
+# navigation
+|   |Index|samsung+apple|google+huawei|cases1|apple access| google access  | huawei access  |   |
+|---|---|---|---|---|---|---|---|---|
+|Index|&check;   |&check;   |  &check; | &check;  | &check;  | &check;  | &check;  |   |
+|samsung+apple| &check;  |X   | X  |  X |   X|  X | X  |   |
+|google+huawei|&check;   | X  | X  |  X | X  |  X | X  |   |
+|cases1|&check;   |  X | X  |  X | X  |X   |  X |   |
+|apple access|&check;   | X  |  X |  X | X  | X  |   X|   |
+|google access|&check;   |X   | X  | X  |  X | X  | X  |   |
+|huawei access|&check;   | X  | X  | X  | X  | X  |  X |   |
+|   |   |   |   |   |   |   |   |   |
 
 ![image](../images/imagesdoc/frontpage.JPG) 
 ![image](../images/imagesdoc/style2finished.JPG)
