@@ -22,6 +22,7 @@ this catogory usally has three types of stakeholders to be spercific, customers 
 # color scheme 
 ##### palette URL:https://paletton.com/#uid=13L0u0kpdFtFBhlFBhlsO++sO++
 ![image](../images/imagesdoc/orange.JPG)
+![image](../images/imagesdoc/terquisecolour.JPG)
 # images used 
 # SAMSUNG 
 ![image](../images/imagesdoc/samsungzflip3.JPG)
@@ -120,6 +121,7 @@ this is my search bar and it is a functonal part of the wbpage to a certain exte
 ![image](../images/imagesdoc/youtubeclip.JPG)
 ### https://youtu.be/oPR_LU5YNeo
 This is a youtube clip of the samsung galaxy s22 offical reveal clip, it is a very good peice to the webpage mainly because it is functonal as in you can play, puse, share and switch between full screen and normal screen easily overall a decent additon. 
+
 ![image](../images/imagesdoc/links.JPG)  
 this is a section i added because i thought it would be the most easiest and funconal way of navagation to get to one place to another and it does function as i wanted.  
 # feedback 
@@ -153,7 +155,6 @@ this is a screenshot of the huawei accessories page
 ![image](../images/imagesdoc/S21ultraprotectivestandingcase.JPG)
 ![image](../images/imagesdoc/S21ultraprotectivestandingsilvercase.JPG)
 ![image](../images/imagesdoc/EmeraldPoolGalaxyZFlip3Case2.JPG) 
-![image](../images/imagesdoc/EmeraldPoolGalaxyZFlip3Case.JPG)
 ![image](../images/imagesdoc/galaxybuds.JPG)
 
 these are all my samsung accessorise images and there links. 
