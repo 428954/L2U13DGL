@@ -62,15 +62,7 @@ pixel 5
 style 1 
  ![image](../images/imagesdoc/logo.jpg) 
  ![image](../images/imagesdoc/webpageimg.jpg)
-
-|   |Index|samsung+apple|google+huawei||  |
-|---|---|---|---|---|---|---|---|---|
-|Index|&check;   |&check;   |  &check; | &check;  | &check;  | &check;  | &check;  |   |
-|samsung+apple| &check;  |X   | X  |  X |   X|  X | X  |   |
-|google+huawei|&check;   | X  | X  |  X | X  |  X | X  |   |
-|   |   |   |   |   |   |   |   |   |
-
-
+# navigation style1
  |   |  index | samsung  | apple  | google  | huawei  |
 |---|---|---|---|---|---|
 | index  | &check;  | &check;  | &check;  | &check;  | &check;  |
@@ -87,7 +79,7 @@ https://paletton.com/#uid=10S0u0koQruffBkkku7s8mJvGhW
 ![image](../images/imagesdoc/palepurple.jpg) 
 ![image](../images/imagesdoc/daphonify.jpg)  
 ![image](../images/imagesdoc/style2.jpg)
-# navigation
+# navigation style2
 |   |Index|samsung+apple|google+huawei|cases1|apple access| google access  | huawei access  |   |
 |---|---|---|---|---|---|---|---|---|
 |Index|&check;   |&check;   |  &check; | &check;  | &check;  | &check;  | &check;  |   |
