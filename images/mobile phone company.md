@@ -212,3 +212,4 @@ these are the google accessories images and links
 ![image](../images/imagesdoc/huaweiSoundJoyPortableBluetoothSpeaker.JPG)
 ![image](../images/imagesdoc/huaweiBand6FitnessrackerGraphiteBlack.JPG)
 ![image](../images/imagesdoc/HUAWEIFREEBUDSSTUDIOWirelessEarphones.JPG)
+
