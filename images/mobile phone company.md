@@ -18,7 +18,8 @@ this catogory usally has three types of stakeholders to be spercific, customers 
 * easy to test 
 * flowing standards 
 # task1 
-## https://sway.office.com/NtVz2VpChtU5QPOi
+ link to webpage comparison. 
+## https://sway.office.com/NtVz2VpChtU5QPOi?ref=Link
 # color scheme 
 ##### palette URL:https://paletton.com/#uid=13L0u0kpdFtFBhlFBhlsO++sO++
 ![image](../images/imagesdoc/orange.JPG)
@@ -74,10 +75,6 @@ style 1
 
 style 2 
 https://paletton.com/#uid=10S0u0koQruffBkkku7s8mJvGhW 
-
-![image](../images/imagesdoc/goldbronzehex.jpg)
-![image](../images/imagesdoc/silvergrey.jpg)
-![image](../images/imagesdoc/palepurple.jpg) 
 ![image](../images/imagesdoc/daphonify.jpg)  
 ![image](../images/imagesdoc/style2.jpg)
 # navigation style2
@@ -96,13 +93,10 @@ https://paletton.com/#uid=10S0u0koQruffBkkku7s8mJvGhW
 ![image](../images/imagesdoc/style2finished.JPG)
 the style for my web site i have chosen is style two. 
 during the production of my webpage i made a few changes, also i added a video on the front page, the things i changed were the colour of the background i changed it from boring white to orange i decided to add a table in made with the help from W3schools i changed the coloutr of the search bar and search icon to a terquise/ blue.As you can see from the images above there are some major diferences like the second table the layout and the youtube video that i added. The photoshop layout doesn't have everything i included in my home page,thisa is only due it being a breif design such as i now have more links to pages, a youtube video and a second table.
-# webpage comparison
-this is the URL to my website comparison: 
-### https://sway.office.com/NtVz2VpChtU5QPOi 
-![image](../images/imagesdoc/webpagecomparisonsnew.pdf) 
 # file structure 
-![image](../images/imagesdoc/filetree.JPG)
-![image](../images/imagesdoc/filefoldertree.JPG)
+![image](../images/imagesdoc/filetreeVSC2.PNG.JPG)
+![image](../images/imagesdoc/filefoldertreeVSC.PNG.JPG)
+![image](../images/imagesdoc/fileftreeVSC3.PNG.JPG)
 # test plan 
 my target audience for my webpage is anyone of the age to buy a mobile phone e.g. teenagers or parents. 
 
@@ -115,6 +109,9 @@ i will also will checking the consistencey of the flow in the website and how we
 ![image](../images/imagesdoc/maindesign.JPG)  
 
 i went for this design because i think the colours have a strange contrast but i also think it looks nice. the colours were  an alternative route to what i planed, i chose them mainly because during the process of creating the page i thought these were better than what i origanally thought about using.As you can see from the images above there are some major diferences like the second table the layout and the youtube video that i added which was needed for the webpage.  
+# test plan 
+During my testing i will be testing each part of the webpage making sure they work and fuction as they should.the first test is checking that the search bar works and looks good,i chose to not make the search bar fully fuctional like you can type in it because i didn't want to make things to complicated. the second thing i will be testing is the youtube video, making sure it functions poperly e.g. play the video on full screen. 
+the third thing i will test is the links making sure they work and redirect you to the pages i wont them to. 
 # testing 
 ![image](../images/imagesdoc/searchbar.JPG)
 this is my search bar and it is a functonal part of the wbpage to a certain extent, for exampe what you search in it wont redirect you to the page you want but you still can type in it.and over all it looks great. 
