@@ -1,6 +1,6 @@
 # mobile phone reatail company
 # who are the stakeholders 
-this catogory usally has three types of stakeholders to be spercific, customers who buy phone's from a phone company are usally 40 to 50 year old women proberly buying for their children. these are properly listed below.  
+this catogory usally has three types of stakeholders to be spercific, customers who buy phone's from a phone company are usally 18 to 50 year old women proberly buying for their children. these are properly listed below.  
 # Customers
 * product information- so that know what they're bying 
 * easily accessable- so they can easly locate the compsany website  
