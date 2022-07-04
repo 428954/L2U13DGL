@@ -62,7 +62,7 @@ google pixel 6
 pixel 5
 # https://www.amazon.co.uk/Unov-Compatible-Protective-Embossed-Absorption-Great-Wave/dp/B08KFYG2CC/ref=sr_1_2_sspa?crid=1BOSFN24M669D&keywords=pixel+5+phone+case&qid=1654768180&sprefix=pixel+5+phone+case%2Caps%2C104&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVEZWTE9ON0ZUT1JRJmVuY3J5cHRlZElkPUEwNjMzNTg3MjRSWElSQVJFU1BTNCZlbmNyeXB0ZWRBZElkPUEwMDE0NTUwVVdFUU9XWU8xWkhDJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
 style 1 
- ![image](../images/imagesdoc/logo.jpg) 
+ ![image](../images/imagesdoc/.jpg) 
  ![image](../images/imagesdoc/webpageimg.jpg)
 # navigation style1
  |   |  index | samsung  | apple  | google  | huawei  |
