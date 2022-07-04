@@ -28,7 +28,7 @@ this catogory usally has three types of stakeholders to be spercific, customers 
 # SAMSUNG 
 ![image](../images/imagesdoc/samsungzflip3.JPG)
 ##### z flip 3 URL:https://www.google.com/search?q=galaxy+z+flip3+5g&rlz=1C1GCEA_enGB972GB973&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjyk9jij8r1AhXNQkEAHcf5CUUQ_AUoA3oECAEQBQ&biw=1920&bih=969&dpr=1&safe=active&ssui=on#imgrc=KmniNbxMGEltWM 
-![image](samsungzflip3.jpg) 
+
 ##### galazyA22 URL: https://www.google.com/search?q=galaxy+a22&tbm=isch&ved=2ahUKEwiWuMvkj8r1AhVPM8AKHd5kDfcQ2-cCegQIABAA&oq=galaxy+A22&gs_lcp=CgNpbWcQARgAMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoGCAAQCBAeOgQIABAYOgYIABAKEBg6CAgAEIAEELEDUMsSWOUyYMI5aABwAHgAgAE2iAHvAZIBATWYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=3nfuYZbRLs_mgAbeybW4Dw&bih=969&biw=1920&rlz=1C1GCEA_enGB972GB973&safe=active&ssui=on#imgrc=BjkE94e7DqyK2M 
 ![image](../images/imagesdoc/galaxyA22.jpg) 
 ##### galazyS21ultra URL:https://www.google.com/search?q=galaxy+s21+ultra&tbm=isch&ved=2ahUKEwj7qN-dkcr1AhVMYfEDHXQ5AAYQ2-cCegQIABAA&oq=galaxy+s21+ulk&gs_lcp=CgNpbWcQARgAMgYIABAKEBg6BAgAEEM6BQgAEIAEOggIABCABBCxAzoKCAAQsQMQgwEQQzoLCAAQgAQQsQMQgwFQkwZY3llg7m9oB3AAeAGAATmIAYgHkgECMTmYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABAMABAQ&sclient=img&ei=Y3nuYbvrA8zCxc8P9PKAMA&bih=969&biw=1920&rlz=1C1GCEA_enGB972GB973&safe=active&ssui=on#imgrc=0MbrnC5C5avxsM 
