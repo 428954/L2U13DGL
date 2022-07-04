@@ -20,7 +20,7 @@ this catogory usally has three types of stakeholders to be spercific, customers 
 # task1 
  link to webpage comparison. 
 ## https://sway.office.com/NtVz2VpChtU5QPOi?ref=Link
-# color scheme 
+# color scheme and typograpy 
 ##### palette URL:https://paletton.com/#uid=13L0u0kpdFtFBhlFBhlsO++sO++
 ![image](../images/imagesdoc/orange.JPG)
 ![image](../images/imagesdoc/terquisecolour.JPG)
