@@ -210,3 +210,15 @@ these are the google accessories images and links
 ![image](../images/imagesdoc/huaweiBand6FitnessrackerGraphiteBlack.JPG)
 ![image](../images/imagesdoc/HUAWEIFREEBUDSSTUDIOWirelessEarphones.JPG)
 
+# final website 
+The final product is quite close to the original plan of the website. There had to be some design changes like how some of the images were ment to have a orange box around each of them. However, in the final product I felt like it was much more simple and appealing to not be sorrounded by orange background box's.
+
+Another thing that I had to change in the final product is the fact that there was going to be multiple images for each phone and was going to make them switch out when a button was clicked on next to them but i then scrapped the idea and leave it with oner image per phone. 
+
+Also, using the feed back from my peers, I had to change something thing from the original design, such as in Ugnius's feedback he states that there needs information bellow each phone,following up on this feedback i decided to add prices and a little bit of information for ach phone and accessorie i had.
+
+This website is fit for purpose and meets the requirements of the stakesholders. The customers have a clear and easy to under demostration of what brand and what specs each phone has, The navigation isn't hard to understand and its easy to navigate to each brands pages. When it comes to the owners the website looks professional. the code is rather simple which means its very maintainable. Developers would be able to maintain this website quite easy, also the website is easiy to test. This website would meet the owners standards.
+two things that I would improve:
+
+* one thing i would improve would be the typography, the style of the font could benefit from a change 
+ * last thing i would impove is the navigation concidering how benifitial it would be if it bhad a back button on each page. 
