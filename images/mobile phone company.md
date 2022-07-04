@@ -107,8 +107,8 @@ the test that will be carried out will consist of the checking of each link that
 i will also will checking the consistencey of the flow in the website and how well it looks. 
 # justifying the design
 ![image](../images/imagesdoc/maindesign.JPG)  
-
-i went for this design because i think the colours have a strange contrast but i also think it looks nice. the colours were  an alternative route to what i planed, i chose them mainly because during the process of creating the page i thought these were better than what i origanally thought about using.As you can see from the images above there are some major diferences like the second table the layout and the youtube video that i added which was needed for the webpage.  
+ ![image](../images/imagesdoc/samsungandappleimage.JPG)  
+i went for this design because i think the colours have a strange contrast but i also think it looks nice. the colours were  an alternative route to what i planed, i chose them mainly because during the process of creating the page i thought these were better than what i origanally thought about using.As you can see from the images above there are some major diferences like the second table the layout and the youtube video that i added which was needed for the webpage.The design for the samsung and apple page is the same trhought the rest of the pages, i chose this stile because its simple and easy.   
 # test plan 
 During my testing i will be testing each part of the webpage making sure they work and fuction as they should.the first test is checking that the search bar works and looks good,i chose to not make the search bar fully fuctional like you can type in it because i didn't want to make things to complicated. the second thing i will be testing is the youtube video, making sure it functions poperly e.g. play the video on full screen. 
 the third thing i will test is the links making sure they work and redirect you to the pages i wont them to. 
