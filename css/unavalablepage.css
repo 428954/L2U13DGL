@@ -1,0 +1,19 @@
+
+*{padding: 0px;
+margin: 0px}
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 1000px;
+    width: 100%;
+    background-color:#e0740a}
+    p{ font-size: xx-large;}
+
+     .top-middle{
+        width:100%;
+        height: 100%;
+        align-items: center;
+    justify-content: center;
+    display: flex;
+    }
