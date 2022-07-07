@@ -94,9 +94,9 @@ https://paletton.com/#uid=10S0u0koQruffBkkku7s8mJvGhW
 the style for my web site i have chosen is style two. 
 during the production of my webpage i made a few changes, also i added a video on the front page, the things i changed were the colour of the background i changed it from boring white to orange i decided to add a table in made with the help from W3schools i changed the coloutr of the search bar and search icon to a terquise/ blue.As you can see from the images above there are some major diferences like the second table the layout and the youtube video that i added. The photoshop layout doesn't have everything i included in my home page,thisa is only due it being a breif design such as i now have more links to pages, a youtube video and a second table.
 # file structure 
-![image](../images/imagesdoc/filetreeVSC2.PNG.JPG)
-![image](../images/imagesdoc/filefoldertreeVSC.PNG.JPG)
-![image](../images/imagesdoc/fileftreeVSC3.PNG.JPG)
+![image](../images/imagesdoc/filetreeVSC2.PNG)
+![image](../images/imagesdoc/filefoldertreeVSC.PNG)
+![image](../images/imagesdoc/fileftreeVSC3.PNG)
 # test plan 
 my target audience for my webpage is anyone of the age to buy a mobile phone e.g. teenagers or parents. 
 
