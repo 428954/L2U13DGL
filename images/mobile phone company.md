@@ -76,7 +76,7 @@ style 1
 style 2 
 https://paletton.com/#uid=10S0u0koQruffBkkku7s8mJvGhW 
 ![image](../images/imagesdoc/daphonify.jpg)  
-![image](../images/imagesdoc/style2.jpg)
+![image](../images/imagesdoc/style2PAGE2.jpg)
 # navigation style2
 |   |Index|samsung+apple|google+huawei|cases1|apple access| google access  | huawei access  |   |
 |---|---|---|---|---|---|---|---|---|
